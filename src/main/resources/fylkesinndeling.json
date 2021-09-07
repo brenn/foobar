@@ -1,0 +1,354 @@
+{
+  "name": "Fylkesinndeling 2020",
+  "validFrom": "2020-01-01",
+  "lastModified": "2021-08-24T06:49:13.000+0000",
+  "published": [
+    "nb",
+    "nn",
+    "en"
+  ],
+  "introduction": "Fylkene er regionale administrative enheter både for statlig og fylkeskommunal virksomhet og en viktig enhet i SSBs statistikkpublisering. I 2020 ble 18 fylker redusert til 11. Fylker tilsvarer NUTS 3 i EU sitt statistikksystem. Detaljer er beskrevet på: https://www.ssb.no/offentlig-sektor/kommunekatalog/endringer-i-de-regionale-inndelingene#En_rekke_regionendringer_ble_iverksatt_112020.",
+  "contactPerson": {
+    "name": "Moe, Dana",
+    "email": "Dana.Moe@ssb.no",
+    "phone": "40811343"
+  },
+  "owningSection": "320 - Seksjon for befolkningsstatistikk ",
+  "legalBase": "https://lovdata.no/dokument/NL/lov/2018-06-22-84",
+  "publications": "https://www.ssb.no/a/publikasjoner/pdf/nos_c513/nos_c513.pdf ",
+  "derivedFrom": "",
+  "correspondenceTables": [
+    {
+      "name": "Fylkesinndeling 2020 - Fylkesinndeling 2018",
+      "contactPerson": {
+        "name": "Moe, Dana",
+        "email": "Dana.Moe@ssb.no",
+        "phone": "40811343"
+      },
+      "owningSection": "320 - Seksjon for befolkningsstatistikk ",
+      "source": "Fylkesinndeling 2020",
+      "sourceId": 1158,
+      "target": "Fylkesinndeling 2018",
+      "targetId": 916,
+      "changeTable": true,
+      "lastModified": "2020-09-14T08:27:18.000+0000",
+      "published": [
+        "nb",
+        "nn",
+        "en"
+      ],
+      "sourceLevel": null,
+      "targetLevel": null,
+      "_links": {
+        "self": {
+          "href": "https://data.ssb.no/api/klass/v1/correspondencetables/452"
+        },
+        "source": {
+          "href": "https://data.ssb.no/api/klass/v1/versions/1158"
+        },
+        "target": {
+          "href": "https://data.ssb.no/api/klass/v1/versions/916"
+        }
+      }
+    },
+    {
+      "name": "Fylkesinndeling 2020 - Kommuneinndeling 2020",
+      "contactPerson": {
+        "name": "Moe, Dana",
+        "email": "Dana.Moe@ssb.no",
+        "phone": "40811343"
+      },
+      "owningSection": "320 - Seksjon for befolkningsstatistikk ",
+      "source": "Fylkesinndeling 2020",
+      "sourceId": 1158,
+      "target": "Kommuneinndeling 2020",
+      "targetId": 1160,
+      "changeTable": false,
+      "lastModified": "2020-09-14T08:37:06.000+0000",
+      "published": [
+        "nb",
+        "nn",
+        "en"
+      ],
+      "sourceLevel": null,
+      "targetLevel": null,
+      "_links": {
+        "self": {
+          "href": "https://data.ssb.no/api/klass/v1/correspondencetables/450"
+        },
+        "source": {
+          "href": "https://data.ssb.no/api/klass/v1/versions/1158"
+        },
+        "target": {
+          "href": "https://data.ssb.no/api/klass/v1/versions/1160"
+        }
+      }
+    },
+    {
+      "name": "Fylkesinndeling 2020 - Økonomiske regioner 2020",
+      "contactPerson": {
+        "name": "Moe, Dana",
+        "email": "Dana.Moe@ssb.no",
+        "phone": "40811343"
+      },
+      "owningSection": "320 - Seksjon for befolkningsstatistikk ",
+      "source": "Fylkesinndeling 2020",
+      "sourceId": 1158,
+      "target": "Økonomiske regioner 2020",
+      "targetId": 1308,
+      "changeTable": false,
+      "lastModified": "2020-11-30T11:27:19.000+0000",
+      "published": [
+        "nb",
+        "nn",
+        "en"
+      ],
+      "sourceLevel": null,
+      "targetLevel": null,
+      "_links": {
+        "self": {
+          "href": "https://data.ssb.no/api/klass/v1/correspondencetables/634"
+        },
+        "source": {
+          "href": "https://data.ssb.no/api/klass/v1/versions/1158"
+        },
+        "target": {
+          "href": "https://data.ssb.no/api/klass/v1/versions/1308"
+        }
+      }
+    },
+    {
+      "name": "Familievernkontor 2020 - Fylkesinndeling 2020",
+      "contactPerson": {
+        "name": "Sky, Vibeke",
+        "email": "Vibeke.Sky@ssb.no",
+        "phone": "40902405"
+      },
+      "owningSection": "330 - Seksjon for helse-, omsorg og sosialstatistikk ",
+      "source": "Familievernkontor 2020",
+      "sourceId": 1534,
+      "target": "Fylkesinndeling 2020",
+      "targetId": 1158,
+      "changeTable": false,
+      "lastModified": "2021-04-28T12:48:53.000+0000",
+      "published": [
+        "nb",
+        "nn",
+        "en"
+      ],
+      "sourceLevel": null,
+      "targetLevel": null,
+      "_links": {
+        "self": {
+          "href": "https://data.ssb.no/api/klass/v1/correspondencetables/697"
+        },
+        "source": {
+          "href": "https://data.ssb.no/api/klass/v1/versions/1534"
+        },
+        "target": {
+          "href": "https://data.ssb.no/api/klass/v1/versions/1158"
+        }
+      }
+    },
+    {
+      "name": "Landsdelsinndeling 2020 - Fylkesinndeling 2020",
+      "contactPerson": {
+        "name": "Moe, Dana",
+        "email": "Dana.Moe@ssb.no",
+        "phone": "40811343"
+      },
+      "owningSection": "320 - Seksjon for befolkningsstatistikk ",
+      "source": "Landsdelsinndeling 2020",
+      "sourceId": 1213,
+      "target": "Fylkesinndeling 2020",
+      "targetId": 1158,
+      "changeTable": false,
+      "lastModified": "2019-12-02T13:16:39.000+0000",
+      "published": [
+        "nb",
+        "en"
+      ],
+      "sourceLevel": null,
+      "targetLevel": null,
+      "_links": {
+        "self": {
+          "href": "https://data.ssb.no/api/klass/v1/correspondencetables/468"
+        },
+        "source": {
+          "href": "https://data.ssb.no/api/klass/v1/versions/1213"
+        },
+        "target": {
+          "href": "https://data.ssb.no/api/klass/v1/versions/1158"
+        }
+      }
+    }
+  ],
+  "classificationVariants": [
+    {
+      "name": "Produksjonsfylke 2020 - variant av Fylkesinndeling 2020",
+      "contactPerson": {
+        "name": "Rolsdorph, Nina",
+        "email": "Nina.Rolsdorph@ssb.no",
+        "phone": "40902688"
+      },
+      "owningSection": "214 - Utenrikshandelsstatistikk ",
+      "lastModified": "2021-06-29T13:52:54.000+0000",
+      "published": [
+        "nb",
+        "en"
+      ],
+      "_links": {
+        "self": {
+          "href": "https://data.ssb.no/api/klass/v1/variants/1567"
+        }
+      }
+    }
+  ],
+  "changelogs": [
+    {
+      "changeOccured": "2019-09-12T09:15:25.000+0000",
+      "description": "Fylkesinndeling 2020 publisert"
+    },
+    {
+      "changeOccured": "2019-09-18T08:58:47.000+0000",
+      "description": "Rettet feil i kode, fra 4 til 20 siffer"
+    },
+    {
+      "changeOccured": "2020-01-28T13:06:44.000+0000",
+      "description": "lagt inn bindestrek mellom ulike språk for Trøndelag og Troms og Finnmark"
+    },
+    {
+      "changeOccured": "2020-10-28T12:24:19.000+0000",
+      "description": "samisk og/eller kvensk navn oppdatert"
+    },
+    {
+      "changeOccured": "2020-11-16T11:13:57.000+0000",
+      "description": "Omtale oppdatert med teksten: Detaljer er beskrevet på: https://www.ssb.no/offentlig-sektor/kommunekatalog/endringer-i-de-regionale-inndelingene#En_rekke_regionendringer_ble_iverksatt_112020."
+    },
+    {
+      "changeOccured": "2021-03-23T09:42:10.000+0000",
+      "description": "Tankestrek i 54 Troms og Finnmark - Romsa ja Finnmárku - Tromssa ja Finmarkku ble forandret til bindestrek."
+    },
+    {
+      "changeOccured": "2021-06-23T06:20:24.000+0000",
+      "description": "Stortingets vedtak fra 27. april 2021 innfører tospråklig navn på Norland fylke, norsk og lulesamisk. Endringen trer i kraft straks. "
+    },
+    {
+      "changeOccured": "2021-06-23T06:59:23.000+0000",
+      "description": "Parliament's decision of 27 April 2021 introduces a bilingual name for Norland county, Norwegian and Lule Sámi. The change takes effect immediately. "
+    },
+    {
+      "changeOccured": "2021-08-24T06:49:13.000+0000",
+      "description": "Lenken til publikasjonen ble rettet: https://www.ssb.no/a/publikasjoner/pdf/nos_c513/nos_c513.pdf ."
+    }
+  ],
+  "levels": [
+    {
+      "levelNumber": 1,
+      "levelName": "Nivå 1"
+    }
+  ],
+  "classificationItems": [
+    {
+      "code": "03",
+      "parentCode": "",
+      "level": "1",
+      "name": "Oslo",
+      "shortName": null,
+      "notes": ""
+    },
+    {
+      "code": "11",
+      "parentCode": "",
+      "level": "1",
+      "name": "Rogaland",
+      "shortName": null,
+      "notes": ""
+    },
+    {
+      "code": "15",
+      "parentCode": "",
+      "level": "1",
+      "name": "Møre og Romsdal",
+      "shortName": null,
+      "notes": ""
+    },
+    {
+      "code": "18",
+      "parentCode": "",
+      "level": "1",
+      "name": "Nordland - Nordlánnda",
+      "shortName": null,
+      "notes": "Stortingets vedtak fra 27. april 2021 innfører tospråklig navn på Nordland fylke, norsk og lulesamisk. Endringen trer i kraft straks. "
+    },
+    {
+      "code": "30",
+      "parentCode": "",
+      "level": "1",
+      "name": "Viken",
+      "shortName": null,
+      "notes": ""
+    },
+    {
+      "code": "34",
+      "parentCode": "",
+      "level": "1",
+      "name": "Innlandet",
+      "shortName": null,
+      "notes": ""
+    },
+    {
+      "code": "38",
+      "parentCode": "",
+      "level": "1",
+      "name": "Vestfold og Telemark",
+      "shortName": null,
+      "notes": ""
+    },
+    {
+      "code": "42",
+      "parentCode": "",
+      "level": "1",
+      "name": "Agder",
+      "shortName": null,
+      "notes": ""
+    },
+    {
+      "code": "46",
+      "parentCode": "",
+      "level": "1",
+      "name": "Vestland",
+      "shortName": null,
+      "notes": ""
+    },
+    {
+      "code": "50",
+      "parentCode": "",
+      "level": "1",
+      "name": "Trøndelag - Trööndelage",
+      "shortName": null,
+      "notes": ""
+    },
+    {
+      "code": "54",
+      "parentCode": "",
+      "level": "1",
+      "name": "Troms og Finnmark - Romsa ja Finnmárku - Tromssa ja Finmarkku",
+      "shortName": null,
+      "notes": ""
+    },
+    {
+      "code": "99",
+      "parentCode": "",
+      "level": "1",
+      "name": "Uoppgitt",
+      "shortName": null,
+      "notes": ""
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://data.ssb.no/api/klass/v1/versions/1158"
+    }
+  }
+}
